@@ -1,4 +1,6 @@
 //===================>>>[ todo 리스트 목록을 만드는 기능 ]<<<==================
+
+
 const todoInput = document.querySelector('#todo-input');
 const todoList = document.querySelector('#todo-list');
 
